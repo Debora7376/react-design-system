@@ -1,6 +1,14 @@
 # React Design System
 
-![preview](./preview.png)
+### Tela Principal
+![preview](./preview/preview.png)
+
+### Componentes no Storybook 
+![preview](./preview/story_components-heading.png)
+![preview](./preview/story_components-text.png)
+![preview](./preview/story_components-textinput.png)
+![preview](./preview/story_components-button.png)
+![preview](./preview/story_components-checkbox.png)
 
 > Ignite Lab
 

@@ -9,7 +9,6 @@ export interface ButtonProps {
 
 export function Button({children, asChild}: ButtonProps) {
   const Comp = asChild ? Slot : 'button';
-
   return (
     <Comp 
     className={clsx(
